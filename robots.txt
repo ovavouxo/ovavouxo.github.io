@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovavouxo.github.io/sitemap_index.ovavouxo
